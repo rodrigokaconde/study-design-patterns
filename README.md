@@ -101,3 +101,6 @@ Exemplo
 
 ## H2 Data Base
 ``` http://localhost:8070/h2 ```
+
+## Api Externa
+Busca de endereço em: <https://viacep.com.br/>
